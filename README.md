@@ -115,7 +115,7 @@ python main.py
 ## 📩 Contact
 
 👤 **Afnan Shoukat**
-📧 Email: [shaikhusama541@gmail.com](mailto:afnanshoukat35@gmail.com)
+📧 Email: [afnanshoukat35@gmail.com](mailto:afnanshoukat35@gmail.com)
 
 Feel free to reach out for:
 
